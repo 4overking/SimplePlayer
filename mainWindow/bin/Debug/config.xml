@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <fileFilter>*.mp3|*.wav|*.flac</fileFilter>
+  <currState>play</currState>
+  <currStatePosition>-1</currStatePosition>
+  <showPlayList>false</showPlayList>
+  <playlist />
+  <currPlay>-1</currPlay>
+  <volume>1</volume>
+</Config>
